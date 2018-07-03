@@ -1,11 +1,11 @@
-ACRE COIN
+# ACRE COIN
 Making connection, disrupting property world through cryptocurrency
 
 Our team consist of 2 division; the crypto-team and the property team. We have been in the property industry for more than a decade and we are now planning to revolutionize the property platform globally. We aim to be the leading property trading platform, promoting cryptocurrency as the main payment method. We wish to bridge all the buyer and seller globally through our minimalist and functional platform.
 
 More information at http://acreprop.org
 
-COIN INFORMATION
+# COIN INFORMATION
 Coin Name : ACRE (ticker: ACRE)
 
 Algorithm : QUARK
@@ -20,7 +20,7 @@ Block time : 60 seconds
 
 Block reward : 85% Masternode / 15% POS
 
-BLOCK REWARD
+# BLOCK REWARD
 1-200 : 1,250 (PREMINE)
 
 201-1,201 : 1 (INSTAMINE)
